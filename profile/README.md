@@ -1,5 +1,5 @@
 # 💫 About 1aWebmarketing:
-🔭 Im currently working on adfinity and LogHub<br>👯 Im looking to collaborate on Laravel projects<br>🌱 Currently learning Laravel<br>⚡ WordPress Expert for custom development
+🔭 Currently working on adfinity and LogHub<br>👯 Looking to collaborate on Laravel projects<br>🌱 Currently learning Laravel<br>⚡ WordPress Expert for custom development
 
 
 ## 🌐 Socials:
