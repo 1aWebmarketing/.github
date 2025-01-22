@@ -3,8 +3,6 @@
 
 With LogHub 1aWebmarketing launched acloud-based logging platform featuring an intuitive REST API, designed to simplify data logging and integration for developers.
 
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1aWebmarketing)
 
 # 💻 Tech Stack:
